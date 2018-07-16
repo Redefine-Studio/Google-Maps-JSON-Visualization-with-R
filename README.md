@@ -7,7 +7,7 @@ All maps have been edited and modified with Mapshaper, QGIS and Geojson.io.
 ![Example Map](Example/Map.png)
 
 ## Setup
-0. Download your location history (Standortverlauf) from https://takeout.google.com/settings/takeout
+0. Download your location history (Standortverlauf) as JSON file from https://takeout.google.com/settings/takeout
 1. Set up working directory by dragging the project folder on to the R App.
 2. Load source Files
 	```
@@ -60,18 +60,18 @@ All maps have been edited and modified with Mapshaper, QGIS and Geojson.io.
 
 
 ## Rescources
-https://www.r-project.org/
-https://flowingdata.com/
-http://mapshaper.org/
-http://geojson.io/
-http://qgis.com/
-https://timogrossenbacher.ch/2016/12/beautiful-thematic-maps-with-ggplot2-only/
+https://www.r-project.org/<br>
+https://flowingdata.com/<br>
+http://mapshaper.org/<br>
+http://geojson.io/<br>
+http://qgis.com/<br>
+https://timogrossenbacher.ch/2016/12/beautiful-thematic-maps-with-ggplot2-only/<br>
 
 
 ## Thanks
-Daniel Wiederkehr (Interactive Things) 
-Timo Grossenbacher (SRF Data)
-And a ton of examples from stackoverflow.
+Daniel Wiederkehr (Interactive Things)<br>
+Timo Grossenbacher (SRF Data)<br>
+And a ton of examples from stackoverflow.<br>
 
 
 Have a nice day!<br>
