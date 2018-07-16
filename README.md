@@ -2,7 +2,7 @@
 
 ## About
 Based on a desire to visualize my geo recordings this project gathers a collection of R functions to load and display your recorded data from the google timeline. This is my first dive into project R. So everything is up to discussion and input.
-All geojson maps that are provide have been edited and modified with Mapshaper, QGIS and Geojson.io.
+All geojson maps that are provided have been edited and modified with Mapshaper, QGIS and Geojson.io.
 
 ![Example Map](Example/Map.png)
 
